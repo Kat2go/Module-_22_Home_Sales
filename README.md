@@ -7,19 +7,8 @@
 
 ## Results
 * Average price for 4 bedroom house sold in each year:
-     
-+----------+---------+
-|date_built|avg_price|
-+----------+---------+
-|      2010|296800.75|
-|      2011| 302141.9|
-|      2012|298233.42|
-|      2013|299999.39|
-|      2014|299073.89|
-|      2015|307908.86|
-|      2016|296050.24|
-|      2017|296576.69|
-+----------+---------+
+![Alt text](image-2.png)
+
 
 * Average price of a home for each year the home was built that have 3 bedrooms and 3 bathrooms: 
 +----------+---------+

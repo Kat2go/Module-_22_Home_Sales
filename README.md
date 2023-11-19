@@ -21,7 +21,7 @@
 
 * Average price of a home for each year the home was built that have 3 bedrooms and 3 bathrooms: 
  
-    date_built avg_price 
+      date_built avg_price 
        2010 292859.62 
        2011 291117.47 
        2012 293683.19

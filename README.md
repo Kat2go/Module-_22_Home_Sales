@@ -9,6 +9,7 @@
 * Average price for 4 bedroom house sold in each year:
 
  date_built avg_price
+
        2010 296800.75 
        2011  302141.9
        2012 298233.42

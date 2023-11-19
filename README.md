@@ -20,18 +20,17 @@
 
 
 * Average price of a home for each year the home was built that have 3 bedrooms and 3 bathrooms: 
-+----------+---------+
-|date_built|avg_price|
-+----------+---------+
-|      2010|292859.62|
-|      2011|291117.47|
-|      2012|293683.19|
-|      2013|295962.27|
-|      2014|290852.27|
-|      2015| 288770.3|
-|      2016|290555.07|
-|      2017|292676.79|
-+----------+---------+
+ date_built avg_price 
+
+       2010 292859.62 
+       2011 291117.47 
+       2012 293683.19
+       2013 295962.27
+       2014 290852.27
+       2015  288770.3
+       2016 290555.07
+       2017 292676.79
+
 
 * Average price of a home for each year built that have a 3 bedrroms, 3 bathrooms, with two floors and are great than or equal to 2,000 square feet:
 +----------+---------+
